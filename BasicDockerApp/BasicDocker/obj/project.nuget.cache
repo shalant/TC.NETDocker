@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAeoF+FN7cjZuQDIIcWmidmhn/3r+eL5Et6ExmhjI+Ij93pIXz7w16PFhc2deTQv4+TY9GuD1HbTux4URuXvxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\digdr\\Desktop\\coding\\TC.NETDocker\\BasicDockerApp\\BasicDocker\\BasicDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\digdr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
